@@ -7,12 +7,13 @@
 資管3A  0324502  鄭俐凡
 一、文字敘述
 ![GITHUB](https://github.com/0324071/oose_0324071/blob/master/14876073_1759575354295525_733205621_o.jpg "git圖示")
-![GITHUB](https://github.com/0324071/oose_0324071/blob/master/14881778_1759575377628856_602347044_o.jpg "git圖示")
+
 二、圖形介面
 ![GITHUB](https://github.com/0324071/oose_0324071/blob/master/%E5%9C%96%E5%BD%A2%E4%BB%8B%E9%9D%A21.jpg "git圖示")
 ![GITHUB](https://github.com/0324071/oose_0324071/blob/master/%E5%9C%96%E5%BD%A2%E4%BB%8B%E9%9D%A22.jpg "git圖示")
 ![GITHUB](https://github.com/0324071/oose_0324071/blob/master/%E5%9C%96%E5%BD%A2%E4%BB%8B%E9%9D%A23.jpg "git圖示")
 三、Use Case條件描述
+
 四、使用個案圖
 ![GITHUB](https://github.com/0324071/oose_0324071/blob/master/%E5%9C%96%E5%BD%A2%E4%BB%8B%E9%9D%A23.jpg "git圖示")
 五、活動流程圖
