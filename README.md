@@ -13,10 +13,12 @@
 ![GITHUB](https://github.com/0324071/oose_0324071/blob/master/%E5%9C%96%E5%BD%A2%E4%BB%8B%E9%9D%A21.jpg "git圖示")
 ![GITHUB](https://github.com/0324071/oose_0324071/blob/master/%E5%9C%96%E5%BD%A2%E4%BB%8B%E9%9D%A22.jpg "git圖示")
 ![GITHUB](https://github.com/0324071/oose_0324071/blob/master/%E5%9C%96%E5%BD%A2%E4%BB%8B%E9%9D%A23.jpg "git圖示")
+![GITHUB](https://github.com/0324071/oose_0324071/blob/master/%E5%9C%96%E5%BD%A2%E4%BB%8B%E9%9D%A23.jpg "git圖示")
+###1.使用者個案名稱：會員註冊
 ##三、Use Case條件描述
 
 ##四、使用個案圖
-![GITHUB](https://github.com/0324071/oose_0324071/blob/master/%E5%9C%96%E5%BD%A2%E4%BB%8B%E9%9D%A23.jpg "git圖示")
+
 ###1.使用者個案名稱：會員註冊
 
 行為者：使用者
