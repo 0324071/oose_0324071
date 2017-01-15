@@ -11,6 +11,7 @@
 
 ##二、圖形介面
 ![GITHUB](https://github.com/0324071/oose_0324071/blob/master/%E5%9C%96%E5%BD%A2%E4%BB%8B%E9%9D%A21.jpg "git圖示")
+###1.此圖為剛進入網頁平台的畫面
 ![GITHUB](https://github.com/0324071/oose_0324071/blob/master/%E5%9C%96%E5%BD%A2%E4%BB%8B%E9%9D%A22.jpg "git圖示")
 ![GITHUB](https://github.com/0324071/oose_0324071/blob/master/%E5%9C%96%E5%BD%A2%E4%BB%8B%E9%9D%A23.jpg "git圖示")
 ![GITHUB](https://github.com/0324071/oose_0324071/blob/master/%E5%9C%96%E5%BD%A2%E4%BB%8B%E9%9D%A23.jpg "git圖示")
