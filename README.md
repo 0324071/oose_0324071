@@ -16,7 +16,6 @@
 2.此圖為該網頁平台功能之畫面(但需要登入會員才能使用)
 ![GITHUB](https://github.com/0324071/oose_0324071/blob/master/%E5%9C%96%E5%BD%A2%E4%BB%8B%E9%9D%A23.jpg "git圖示")
 3.此圖為帳號註冊、以及網頁平台功能之畫面(但不一定要加入會員才能使用)
-###1.使用者個案名稱：會員註冊
 
 ##四、使用個案圖
 ![GITHUB](https://github.com/0324071/oose_0324071/blob/master/%E4%BD%BF%E7%94%A8%E5%80%8B%E6%A1%88%E5%9C%96.jpg "git圖示")
@@ -94,11 +93,15 @@
 
 ##五、活動流程圖
 ![GITHUB](https://github.com/0324071/oose_0324071/blob/master/%E6%B4%BB%E5%8B%95%E6%B5%81%E7%A8%8B%E5%9C%96.jpg "git圖示")
+此圖為網路平台之活動流程圖(註：此流程圖在會員註冊部分有稍微錯誤，會員註冊後應新增一條路線到會員登入)
 ##六、強韌圖
 ![GITHUB](https://github.com/0324071/oose_0324071/blob/master/%E5%BC%B7%E9%9F%8C%E5%9C%96.jpg "git圖示")
 ![GITHUB](https://github.com/0324071/oose_0324071/blob/master/%E5%BC%B7%E9%9F%8C%E5%9C%96%E5%88%86%E6%9E%90.jpg "git圖示")
 ##七、循序圖
 ![GITHUB](https://github.com/0324071/oose_0324071/blob/master/%E5%BE%AA%E5%BA%8F1.jpg "git圖示")
+###1.此循序圖為會員註冊之流程
 ![GITHUB](https://github.com/0324071/oose_0324071/blob/master/%E5%BE%AA%E5%BA%8F2.jpg "git圖示")
 ![GITHUB](https://github.com/0324071/oose_0324071/blob/master/%E5%BE%AA%E5%BA%8F3.jpg "git圖示")
+###3.此循序圖為需要登入會員才能使用功能之流程
 ![GITHUB](https://github.com/0324071/oose_0324071/blob/master/%E5%BE%AA%E5%BA%8F4.jpg "git圖示")
+###4.此循序圖為不一定登入會員才能使用功能之流程
