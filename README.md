@@ -11,15 +11,16 @@
 
 ##二、圖形介面
 ![GITHUB](https://github.com/0324071/oose_0324071/blob/master/%E5%9C%96%E5%BD%A2%E4%BB%8B%E9%9D%A21.jpg "git圖示")
-###1.此圖為剛進入網頁平台的畫面
+1.此圖為剛進入網頁平台的畫面
 ![GITHUB](https://github.com/0324071/oose_0324071/blob/master/%E5%9C%96%E5%BD%A2%E4%BB%8B%E9%9D%A22.jpg "git圖示")
+2.此圖為該網頁平台功能之畫面(但需要登入會員才能使用)
 ![GITHUB](https://github.com/0324071/oose_0324071/blob/master/%E5%9C%96%E5%BD%A2%E4%BB%8B%E9%9D%A23.jpg "git圖示")
-![GITHUB](https://github.com/0324071/oose_0324071/blob/master/%E5%9C%96%E5%BD%A2%E4%BB%8B%E9%9D%A23.jpg "git圖示")
+3.此圖為帳號註冊、以及網頁平台功能之畫面(但不一定要加入會員才能使用)
 ###1.使用者個案名稱：會員註冊
+
+##
+四、使用個案圖
 ##三、Use Case條件描述
-
-##四、使用個案圖
-
 ###1.使用者個案名稱：會員註冊
 
 行為者：使用者
